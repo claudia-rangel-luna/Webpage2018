@@ -33,3 +33,19 @@
 	padding-left: 165px;
 	padding-top: 5px;
 }
+
+.jumbotron{
+	background-image: url(images/dots.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.intro {
+	color: #733B57;
+	font-weight: bolder;
+}
+.quote{
+	font-style: italic;
+	color: #733B57;
+	font-weight: bolder;
+}
